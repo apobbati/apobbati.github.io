@@ -4,7 +4,7 @@
   <title><![CDATA[Category: octopress | Abhi Pobbati]]></title>
   <link href="http://apobbati.codeblock.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://apobbati.codeblock.io/"/>
-  <updated>2014-01-26T17:31:42-05:00</updated>
+  <updated>2014-01-26T17:34:08-05:00</updated>
   <id>http://apobbati.codeblock.io/</id>
   <author>
     <name><![CDATA[Abhinav Pobbati]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Second post published using OSX Automator]]></title>
-    <link href="http://apobbati.codeblock.io/blog/2014/01/26/second-post-using-octopress/"/>
-    <updated>2014-01-26T16:04:51-05:00</updated>
-    <id>http://apobbati.codeblock.io/blog/2014/01/26/second-post-using-octopress</id>
-    <content type="html"><![CDATA[<p>This is my second post using <a href="http://octopress.org">Octopress</a> published by a trigger using OSX&rsquo;s handy Automator utility.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[First post using Octopress]]></title>
