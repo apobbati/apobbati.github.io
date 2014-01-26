@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: octopress | Abhi Pobbati]]></title>
+  <link href="http://apobbati.codeblock.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://apobbati.codeblock.io/"/>
+  <updated>2014-01-26T16:30:49-05:00</updated>
+  <id>http://apobbati.codeblock.io/</id>
+  <author>
+    <name><![CDATA[Abhinav Pobbati]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First post using Octopress]]></title>
+    <link href="http://apobbati.codeblock.io/blog/2014/01/26/first-post-using-octopress/"/>
+    <updated>2014-01-26T16:04:51-05:00</updated>
+    <id>http://apobbati.codeblock.io/blog/2014/01/26/first-post-using-octopress</id>
+    <content type="html"><![CDATA[<p>This is my first post using <a href="http://octopress.org">Octopress</a>.</p>
+
+<p>So far it looks great and easy to use for hacking up a blog.</p>
+
+<p>Many thanks to great Open Source contributors on <a href="http://github.com">Github</a></p>
+]]></content>
+  </entry>
+  
+</feed>

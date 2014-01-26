@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://apobbati.codeblock.io/blog/2014/01/26/first-post-using-octopress/</loc>
+        <lastmod>2014-01-26T16:30:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/404.html</loc>
+        <lastmod>2014-01-26T16:25:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/aboutme/</loc>
+        <lastmod>2014-01-26T16:25:29-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/archives/</loc>
+        <lastmod>2014-01-26T16:30:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/blog/archives/</loc>
+        <lastmod>2014-01-26T16:30:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/blog/</loc>
+        <lastmod>2014-01-26T16:30:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/</loc>
+        <lastmod>2014-01-26T16:30:35-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://apobbati.codeblock.io/robots.txt</loc>
+        <lastmod>2014-01-26T16:25:30-05:00</lastmod>
+    </url>
+</urlset>
