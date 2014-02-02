@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://apobbati.codeblock.io/sitemap.xml 
