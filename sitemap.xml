@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://localhost:4000</loc>
+        <loc>http://apobbati.codeblock.io</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
+        <loc>http://apobbati.codeblock.io/404.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
+        <loc>http://apobbati.codeblock.io/about/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
+        <loc>http://apobbati.codeblock.io/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/index.html</loc>
+        <loc>http://apobbati.codeblock.io/index.html</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/posts/</loc>
+        <loc>http://apobbati.codeblock.io/posts/</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
+        <loc>http://apobbati.codeblock.io/sitemap.xml</loc>
     </url>
     
 
