@@ -32,6 +32,10 @@
 
     
     <url>
+        <loc>http://apobbati.codeblock.io/spring-stormpath/</loc>
+    </url>
+    
+    <url>
         <loc>http://apobbati.codeblock.io/wercker-maven-project-aws/</loc>
     </url>
     
